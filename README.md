@@ -1,1 +1,1 @@
-# Exercice sur les smart pointer en POA
+# Exercice sur les smart pointers en POA
